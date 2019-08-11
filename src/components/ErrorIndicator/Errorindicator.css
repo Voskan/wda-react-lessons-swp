@@ -1,0 +1,16 @@
+.error-box{
+    text-align: center;
+    padding: 15px 0;
+    color: #cd9d65;
+    width: 100%;
+}
+.error-box h3{
+    font-size: 28px;
+}
+.error-box p {
+    font-weight: bold;
+}
+.error-box img{
+    display: inline-block;
+    width: 90px;
+}

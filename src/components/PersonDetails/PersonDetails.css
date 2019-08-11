@@ -1,0 +1,22 @@
+.person-details{
+  padding: 10px;
+  background: rgb(219, 219, 219);
+  border-radius: 5px;
+}
+
+.person-details-image img {
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.person-details-data h3 {
+  font-size: 26px;
+}
+.person-details-data li {
+  list-style-type: none;
+  padding: 8px;
+  border-bottom: 1px solid #ccc;
+  width: 230px;
+  margin-left: -40px;
+}
